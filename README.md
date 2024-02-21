@@ -1,3 +1,4 @@
 - 👋 Hi, I’m hsureshk
 - 👀 I’m interested in DevOps Tools and its configurations
-- 🌱 I’m currently Python and Openshift
+- 🌱 I’m currently in Python
+- 🌱 I'm a AI, DS & ML learner
